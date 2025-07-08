@@ -1,0 +1,47 @@
+OUTPUT WINDOW
+
+Welcome to DSA Quizzo 
+Enter your name: Kritika
+Questions file loaded successfully.
+
+What is OOP? 
+A) Inheritance
+B) Encapsulation
+C) Both
+D) None
+Your answer (A/B/C/D): c
+Correct!
+
+Do you want to continue to next question? (y/n): y
+
+Which data structure uses LIFO?
+A) Queue
+B) Stack
+C) Tree
+D) Array
+Your answer (A/B/C/D): b
+Correct!
+
+Do you want to continue to next question? (y/n): y
+
+What is the time complexity of binary search?
+A) O(n)
+B) O(log n)
+C) O(n log n)
+D) O(1)
+Your answer (A/B/C/D): b
+Correct!
+
+Do you want to continue to next question? (y/n): y
+
+Which sorting algorithm is fastest on average?
+A) Bubble Sort
+B) Quick Sort
+C) Merge Sort
+D) Insertion Sort
+Your answer (A/B/C/D): b
+Correct!
+
+Do you want to continue to next question? (y/n): n
+
+Quiz Complete, Kritika! Your final score: 4 / 42
