@@ -1,0 +1,42 @@
+What is OOP? | Inheritance | Encapsulation | Both | None | Both | easy
+Which data structure uses LIFO? | Queue | Stack | Tree | Array | Stack | easy
+What is the time complexity of binary search? | O(n) | O(log n) | O(n log n) | O(1) | O(log n) | medium
+Which sorting algorithm is fastest on average? | Bubble Sort | Quick Sort | Merge Sort | Insertion Sort | Quick Sort | medium
+Which keyword is used to define a class in C++? | object | method | class | def | class | easy
+What is encapsulation in OOP? | Binding data and code | Inheritance | Polymorphism | Dynamic binding | Binding data and code | medium
+In C++, what does `new` keyword do? | Deletes object | Creates pointer | Allocates memory | Returns integer | Allocates memory | easy
+Which data structure is used in recursion? | Queue | Stack | Heap | Tree | Stack | easy
+Which of these is not a C++ data type? | int | float | string | decimal | decimal | easy
+Which one is an example of compile-time polymorphism? | Virtual functions | Overloading | Overriding | Templates | Overloading | medium
+C++ standard input is handled using? | cout | cin | print | read | cin | easy
+Destructor in C++ is prefixed with? | # | @ | ~ | ! | ~ | easy
+Which header file is needed for strings? | <iostream> | <math.h> | <string> | <stdlib.h> | <string> | easy
+What does STL stand for? | Standard Template Library | System Template List | Structured Type Library | Standard Tool List | Standard Template Library | medium
+Which tree traversal gives sorted order? | Preorder | Inorder | Postorder | Level Order | Inorder | medium
+Which algorithm is used in Dijkstra’s shortest path? | DFS | BFS | Greedy | DP | Greedy | hard
+What is the result of 5 / 2 in C++? | 2.5 | 2 | 3 | Compile Error | 2 | easy
+Which loop executes at least once? | for | while | do-while | none | do-while | easy
+Which DS is used in BFS? | Queue | Stack | List | Heap | Queue | easy
+Which DS is best for LRU cache? | Queue | Deque | HashMap + Doubly Linked List | Stack | HashMap + Doubly Linked List | hard
+Which is not OOP principle? | Encapsulation | Abstraction | Recursion | Polymorphism | Recursion | easy
+What is the size of int in C++ (typically)? | 2 | 4 | 8 | Depends on compiler | 4 | easy
+What is a friend function? | Accesses private data | Inherits class | Creates object | Destroys class | Accesses private data | medium
+Which is not part of function overloading? | Different name | Different type | Different params | Different order | Different name | medium
+Which is the default access specifier for class members? | public | private | protected | internal | private | easy
+Which data structure is used in DFS? | Queue | Stack | List | Heap | Stack | medium
+Which is not a sorting algorithm? | Merge Sort | Quick Sort | Insert Tree | Heap Sort | Insert Tree | easy
+What is inheritance in OOP? | Hiding details | Accessing methods | Extending class | Encapsulation | Extending class | easy
+What is `this` pointer in C++? | Current object | Global pointer | Null | Function name | Current object | medium
+What is the base of hexadecimal? | 2 | 8 | 10 | 16 | 16 | easy
+What keyword is used to declare a constant variable in C++? | const | let | var | final | const | easy
+Which STL container stores key-value pairs? | vector | list | map | stack | map | medium
+What data structure is used to implement recursion internally? | Queue | Stack | Heap | Graph | Stack | easy
+What is the size of a pointer variable in C++ (typically)? | 2 bytes | 4 bytes | 8 bytes | Depends on system | Depends on system | medium
+Which operator is used for accessing members via pointer? | . | -> | & | * | -> | easy
+What does the 'virtual' keyword indicate in C++? | Static binding | Dynamic binding | Inline function | None | Dynamic binding | medium
+Which keyword is used for inheritance in C++? | extends | inherits | : | -> | : | easy
+Which STL algorithm sorts the elements in a container? | sort() | arrange() | order() | organize() | sort() | easy
+Which data structure allows insertion and deletion from both ends? | Queue | Stack | Deque | List | Deque | medium
+What is the complexity of accessing an element in a hash table? | O(1) average | O(n) average | O(log n) average | O(n log n) | O(1) average | hard
+What is function overloading? | Same function name, different params | Different name same params | Different class same name | None | Same function name, different params | medium
+What is polymorphism? | Multiple forms | Single form | None | Class property | Multiple forms | easy
